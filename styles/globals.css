@@ -40,8 +40,6 @@
 html {
   --scrollbarBG: #ffffff00;
   --thumbBG: #b8b8b8;
-  --border-top: 12px solid #2E3440;
-  --border-bottom: 12px solid #2E3440;
 }
 body::-webkit-scrollbar {
   width: 5px;
